@@ -1,0 +1,26 @@
+_repo: Studies-in-Civics_10733
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCleary, J. T. (James Thompson)
+    alias: McCleary, James Thompson
+    birthdate: 1853
+    deathdate: 1924
+    gutenberg_agent_id: '3655'
+    url: http://www.gutenberg.org/2009/agents/3655
+    wikipedia: http://en.wikipedia.org/wiki/James_McCleary
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- Handbooks, manuals, etc.'
+- !lcc 'JK'
+- GITenberg
+title: Studies in Civics
+url: http://www.gutenberg.org/ebooks/10733
